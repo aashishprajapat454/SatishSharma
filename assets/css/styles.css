@@ -53,7 +53,9 @@ body {
 h1, h2, p {
   margin: 0;
 }
-
+h1{
+  font-size: 20px;
+}
 ul {
   margin: 0;
   padding: 0;
